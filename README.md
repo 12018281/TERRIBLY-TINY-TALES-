@@ -1,4 +1,3 @@
-```markdown
 # Word Frequency Analyzer
 
 This is a React.js/Next.js frontend application that analyzes the frequency of words in a text file and generates a histogram of the 20 most occurring words. It also provides an option to export the histogram data as a CSV file.
